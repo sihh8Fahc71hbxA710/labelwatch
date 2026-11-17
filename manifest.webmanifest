@@ -1,0 +1,16 @@
+{
+  "name": "ラベルウォッチ",
+  "short_name": "ラベルウォッチ",
+  "description": "時間管理（ストップウォッチ・集計・カレンダー）と家計簿。記録は端末の中だけで、通信しません。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f1ed",
+  "theme_color": "#f2f1ed",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
